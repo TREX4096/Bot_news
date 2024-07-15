@@ -15,8 +15,9 @@ This is a simple Telegram bot that provides users with the latest news updates.
    ```bash
    git clone https://github.com/TREX4096/Bot_news
    cd Bot_news
+   npm i
 
-   Get API Keys:
+
 
 2. ### Get API keys:
    1.Go to @BotFather on Telegram to create a new bot and obtain your bot token. \
